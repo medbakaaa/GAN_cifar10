@@ -27,7 +27,7 @@ pip install numpy keras matplotlib pandas
 ```bash
 jupyter notebook
 ```
-- Open gan_cifar10.ipynb and run all cells to see the training process and generated images.
+- Open GAN_trainAndtest_cifar-10.ipynb and run all cells to see the training process and generated images.
 - **Note:** Training the GAN from scratch can be time-consuming. If you prefer to use the pretrained model:
     - Skip to the section where the model is loaded:
     ```bash
