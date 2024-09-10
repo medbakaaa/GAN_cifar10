@@ -11,8 +11,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gan-cifar10.git
-cd gan-cifar10
+git clone https://github.com/medbakaaa/GAN_cifar10.git
+cd GAN_cifar10
 ```
 
 ### 2. Install Dependencies
