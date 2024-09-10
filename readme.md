@@ -2,8 +2,8 @@
 
 ## Project Structure
 
-- **`gan_cifar10.ipynb`**: Contains code to define the Generator and Discriminator models, train the GAN on the CIFAR-10 dataset, and visualize the generated images.
-- **`data/cifar10.npz`**: The CIFAR-10 dataset in NumPy's `.npz` format, used for training.
+- **`GAN_trainAndtest_cifar-10.ipynb`**: Contains code to define the Generator and Discriminator models, train the GAN on the CIFAR-10 dataset, and visualize the generated images.
+- **`data/cifar-10.npz`**: The CIFAR-10 dataset in NumPy's `.npz` format, used for training.
 - **`model/cifar_generator.h5`**: The Generator model saved after 1000 epochs of training.
 
 ## How to Use
